@@ -1,0 +1,20 @@
+{
+  "name": "apisprint",
+  "license": "1.1.1",
+  "description": "the test of all tests",
+  "repository field": "https://github.com/MaisAbuJarur/APIsprint",
+  "README data": "readme",
+  "version": "1.1.1",
+  "node": "^7.0.0",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5",
+    "mongodb": "^2.2.24",
+    "mongoose": "^4.1.0",
+    "morgan": "^1.1.1",
+    "request": "^1.9.9"
+  }
+}
